@@ -1,4 +1,4 @@
-import pygame
+import pygame # type: ignore
 
 class CircleShape(pygame.sprite.Sprite):
     def __init__(self, x, y, radius):

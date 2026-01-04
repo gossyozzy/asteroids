@@ -1,4 +1,4 @@
-import pygame
+import pygame # type: ignore
 import sys
 from constants import SCREEN_WIDTH
 from constants import SCREEN_HEIGHT

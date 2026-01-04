@@ -1,4 +1,4 @@
-import pygame
+import pygame # type: ignore
 from logger import log_event
 from circleshape import CircleShape
 from constants import LINE_WIDTH

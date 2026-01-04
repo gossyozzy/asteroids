@@ -1,4 +1,4 @@
-import pygame
+import pygame # type: ignore
 from circleshape import CircleShape
 from shot import Shot
 from constants import PLAYER_RADIUS
